@@ -14,4 +14,4 @@ Website: [https://game-dev-kit.github.io/](https://game-dev-kit.github.io/)
 Toolkits:
 
 - [3D avatar creation](https://github.com/game-dev-kit/3D-avatar-creation)
-- [Codeless3D](https://github.com/game-dev-kit/3D-scene-builder)
+- [Codeless3D](https://github.com/game-dev-kit/Codeless3D)

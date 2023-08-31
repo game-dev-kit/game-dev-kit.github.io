@@ -8,6 +8,6 @@ nav:
   - Home: 'index.md'
   - Toolkits:
     - 3D avatar creation: '!import https://github.com/game-dev-kit/3D-avatar-creation?branch=main'
-    - Codeless3D: '!import https://github.com/game-dev-kit/3D-scene-builder?branch=main'
+    - Codeless3D: '!import https://github.com/game-dev-kit/Codeless3D?branch=main'
 theme: mkdocs
 copyright: Copyright &copy; 2023 game-dev-kit
